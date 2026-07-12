@@ -154,7 +154,7 @@ System Log, and removing it to restore the clean RBAC pipeline.
   <img width="688" height="761" alt="image" src="https://github.com/user-attachments/assets/56d25a2f-8e53-4e52-b238-4e0ad048c6fb" />
 </p>
 
-4. Find **John Smith** then press **Assign** then **Save and Go Back**
+4. Find **John Smith** then press **Assign** then **Save and Go Back** then **Done**
 
 <p align="center">
   <img width="752" height="324" alt="image" src="https://github.com/user-attachments/assets/df8284de-7992-4c3d-9fd9-e1fab4492f39" />
