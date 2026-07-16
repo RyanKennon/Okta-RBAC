@@ -240,5 +240,5 @@ are required to complete an offboarding.
 </p>
 
 <p align="right">
-  <a href="link-to-lab-4-repo">Lab 4 — Enterprise SSO — SAML 2.0 ➡</a>
+  <a href="[link-to-lab-4-repo](https://github.com/RyanKennon/okta-enterpirse-sso/tree/main)">Lab 4 — Enterprise SSO — SAML 2.0 ➡</a>
 </p>
